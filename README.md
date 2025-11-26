@@ -41,7 +41,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bbesf-fan%7D/count.svg" alt="best-fan :: Visitor's Count" /></p>
 
 
-![profile](https://github-profile-trophy.vercel.app/?username=best-fan&margin-w=28)
+![profile](https://github-profile-trophy.vercel.app/?username=best-fan&margin-w=28&no-frame=true&no-bg=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=best-fan)
 ![best-fan's github stats](https://github-readme-stats.vercel.app/api?username=best-fan&show_icons=true&count_private=true&line_height=40)
