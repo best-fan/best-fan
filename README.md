@@ -16,7 +16,9 @@
 ![windows](https://img.shields.io/badge/-windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=222222) 
 
 ### 💪 Call Me
- <a>![wechat](https://img.shields.io/badge/wechat-fhtdfff-brightgreen?style=for-the-badge&logo=wechat&logoColor=ffffff&labelColor=7BB32E)</a> <br> <a href="mailto:fhtdfff@qq.com">![Email](https://img.shields.io/badge/email-fhtdfff@qq.com-brightgreen?style=for-the-badge&logo=email&logoColor=ffffff&labelColor=D14836)</a>
+wechat：ffd_123
+email:fhtdfff@qq.com
+
 
 ### 📚 Skill
 
