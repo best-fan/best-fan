@@ -17,7 +17,7 @@
 
 - 前端：HTML5 / CSS3 / JavaScript / TypeScript / Vue / React
 - 后端与工具：Node.js / Electron / Vite / Webpack
-- 其他：Python / C# / Git / 常用构建与部署流程
+- 其他：Python / C# /Git / 常用构建与部署流程
 
 ---
 
@@ -30,8 +30,13 @@
 
 <h4 align="center">访客数 👀</h4>
 <br>
-<p align="center"><img src="https://profile-counter.glitch.me/best-fan/count.svg" alt="best-fan :: Visitor's Count" /></p>
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr?url=https://github.com/best-fan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23fff&title=Visitors" alt="visitor count" />
+</p>
 
+<p align="center">如果外部计数器不可用，请查看备用（本地）：<br>
+  <img src="assets/visitor-unavailable.svg" alt="visitor fallback" width="200" />
+</p>
 
 <p align="center">
   ![profile](https://github-profile-trophy.vercel.app/?username=best-fan&margin-w=28&no-frame=true&no-bg=true)
@@ -51,6 +56,6 @@
 **best-fan/best-fan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Notes:
-- Visitor count is kept as a dynamic image from profile-counter.glitch.me
-- Dynamic stats are provided by github-readme-stats and github-profile-trophy
+- Visitor count uses hits.seeyoufarm (更稳定)；本地备份图片位于 assets/visitor-unavailable.svg
+- Dynamic stats provided by github-readme-stats and github-profile-trophy
 -->
